@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon application</string>
+    <string name="network_error">Réseau déconnecté</string>
+    <string name="permission_error">Autorisation Ineternet refusée</string>
+    <string name="network_disconnected">Réseau déconnecté</string>
+    <string name="data_error">Données invalides</string>
+    <string name="date_error">Format de date non valide</string>
+    <string name="server_error">échec de la récupération des données</string>
+    <string name="make_req">Faire une requête</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="network_error">Network Disconnected</string>
+    <string name="permission_error">Ineternet Permission Denied</string>
+    <string name="network_disconnected">Network Disconnected</string>
+    <string name="data_error">Invalid data</string>
+    <string name="date_error">Invalid date format</string>
+    <string name="server_error">failed to fetch data</string>
+    <string name="make_req">Make Request</string>
+</resources>
