@@ -10,11 +10,15 @@
 	Runtime permission test and request if necessary
 	
 ## Http libary
-	There are few of libaries can be used to make http reqeust. In our case the request is a GET request and no custom HTTP headers required so the volley is used to make thing simple and good enough for what we need. 
+	There are few of libaries can be used to make http reqeust. <br/>In our case the request is a GET request and no custom HTTP headers required <br/>so the volley is used to make thing simple and good enough for what we need. 
 
 ## Error detection
 	Detect and warn a request error
 	Detect and warn a format error from server
 
 ## Final Output Video
-                [![Final Output](https://github.com/mailart/q2/blob/master/snapshot.jpg)](https://www.youtube.com/watch?v=ChoG2u0XrnE)
+https://www.youtube.com/embed/ChoG2u0XrnE
+	
+## Snapshot
+<img src="https://github.com/mailart/q2/blob/master/snapshot.jpg" width="40%">
+	
