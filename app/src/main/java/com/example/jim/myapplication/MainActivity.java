@@ -58,6 +58,9 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
+    /*
+    * check the network connection, internet permission and request permission if necessary
+    * */
     private boolean statusCheck(){
 
         if(isNetworkConnected() == false){
